@@ -1,0 +1,17 @@
+{
+  "name": "codeceptjs-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx codeceptjs run --steps"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^2.3.6",
+    "mochawesome": "^4.1.0",
+    "puppeteer": "^2.0.0"
+  }
+}
